@@ -11,13 +11,16 @@ h1 {
     float: right;
     width: 25%;
 }
+#download {
+    height: 128px;
+    width: 256px;
+}
 .scroll-container {
     height: 200px;
-    width: 60%;
+    width: 74%;
     overflow-y: auto;
     overflow-x: auto;
     border-radius: 30px;
     border: 3px solid #000000;
 
 }
-
